@@ -1882,3 +1882,13 @@ footer a {
 		padding: 8px;
 	}
 }
+
+/* Custom CSS under this line */
+
+h1 {
+	color: #aaa;
+}
+p.copyright small {
+	opacity: 0.5;
+	font-size: 0.6em;
+}
