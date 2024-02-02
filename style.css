@@ -1938,3 +1938,6 @@ div > section > h2 {
 h1 {
 	text-transform: none;
 }
+.col-2-2 {
+	width: 50%;
+}
