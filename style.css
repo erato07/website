@@ -1888,8 +1888,10 @@ footer a {
 h1 {
 	color: #aaa;
 }
-p.copyright small {
+p.copyright {
 	opacity: 0.5;
+}
+p.copyright small {
 	font-size: 0.6em;
 }
 
@@ -1904,4 +1906,35 @@ i.icon-tiktok svg path {
 }
 a:hover svg path {
 	fill: #16a085;
+}
+#bio h2 {
+	text-align: center;
+}
+#bio p {
+	margin-bottom: 1em;
+}
+#bio img {
+	width: 100%;
+}
+
+.logo {
+	width: 6em;
+	height: 5em;
+	background: url(images/logo.png) no-repeat;
+	background-size: 6em 5em;
+}
+
+.logo:hover,
+.logo:focus {
+	-webkit-animation: none;
+	-moz-animation: none;
+	-o-animation: none;
+	animation: none;
+}
+div > section > h2 {
+	margin-top: 2em;
+}
+
+h1 {
+	text-transform: none;
 }
