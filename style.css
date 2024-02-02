@@ -1892,3 +1892,16 @@ p.copyright small {
 	opacity: 0.5;
 	font-size: 0.6em;
 }
+
+i[class^="icon"] span {
+	display: none;
+}
+i.icon-tiktok svg {
+	width: 0.9em;
+}
+i.icon-tiktok svg path {
+	fill: white;
+}
+a:hover svg path {
+	fill: #16a085;
+}
