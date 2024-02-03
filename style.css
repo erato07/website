@@ -1945,3 +1945,22 @@ h2 {
 #news h2 {
 	text-align: center;
 }
+q {
+	quotes: "\201c""\201d";
+	font-style: italic;
+}
+q:before {
+	content: open-quote;
+}
+q:after {
+	content: close-quote;
+}
+.quote {
+	padding-top: 3em;
+	opacity: 0.8;
+}
+.quote em {
+	display: block;
+	text-align: right;
+	opacity: 0.7;
+}
