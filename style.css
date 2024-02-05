@@ -1961,3 +1961,7 @@ q:after {
 	text-align: right;
 	opacity: 0.7;
 }
+
+.service-box p {
+	text-align: justify;
+}
