@@ -1902,10 +1902,7 @@ i.icon-tiktok svg {
 	width: 0.9em;
 }
 i.icon-tiktok svg path {
-	fill: white;
-}
-a:hover svg path {
-	fill: #16a085;
+	fill: black;
 }
 #bio h2 {
 	text-align: center;
