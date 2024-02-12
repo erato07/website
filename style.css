@@ -1902,7 +1902,7 @@ i.icon-tiktok svg {
 	width: 0.9em;
 }
 i.icon-tiktok svg path {
-	fill: black;
+	fill: #16a085;
 }
 #bio h2 {
 	text-align: center;
@@ -1960,6 +1960,9 @@ q:after {
 }
 .service-box p {
 	text-align: start;
+}
+#contact address div.single-line-content {
+	margin-top: 2em;
 }
 #contact address div.single-line-content p {
 	padding-top: 0.6em;
