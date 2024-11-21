@@ -584,6 +584,7 @@ blockquote p {
 .parallax-section .content h3,
 .content-header h3 {
 	color: #fff;
+	text-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
 }
 
 .parallax-section h2 > span,
@@ -1890,7 +1891,8 @@ footer a {
 /* Custom CSS under this line */
 
 h1 {
-	color: #aaa;
+	color: #fff;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 p.copyright {
 	opacity: 0.5;
